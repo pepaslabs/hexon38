@@ -43,3 +43,10 @@ This was the first revision of this design:
 - CorelDraw: [hexon38-r0.cdr](hexon38-r0.cdr)
 - PDF export of CorelDraw sheets: [hexon38-r0.pdf](hexon38-r0.pdf)
 
+
+## Inspiration
+
+This keyboard was inspired by many similar designs, primarily the lil38.
+
+See [inspiration.md](inspiration.md).
+
