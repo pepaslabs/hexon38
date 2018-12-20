@@ -50,3 +50,7 @@ This keyboard was inspired by many similar designs, primarily the lil38.
 
 See [inspiration.md](inspiration.md).
 
+
+## Links
+- https://geekhack.org/index.php?topic=98647.0
+- https://www.reddit.com/r/MechanicalKeyboards/comments/a6xdtr/ready_for_firmware/
