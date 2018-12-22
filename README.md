@@ -2,6 +2,8 @@
 
 The hexon38 is a custom 38-key keyboard.
 
+UPDATE: for initial work-in-progress QMK firmware, see https://github.com/qmk/qmk_firmware/pull/4709
+
 ## Revision 1
 
 ![](.assets/IMG_3324.JPG)
